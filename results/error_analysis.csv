@@ -1,0 +1,4 @@
+sentence,char_tokens,char_bpc,bpe_2k_tokens,bpe_2k_bpc,bpe_10k_tokens,bpe_10k_bpc
+1,75,8.7622,109,9.2155,68,8.6471
+2,21,9.7591,26,9.6768,21,9.6949
+3,49,6.6965,42,6.7352,34,6.4397

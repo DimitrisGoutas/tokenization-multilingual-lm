@@ -1,0 +1,7 @@
+tokenizer,language,token,en_count,tr_count,zh_count
+bpe_2k,en," the",30619,74,242
+bpe_2k,tr," ve",91,12940,2
+bpe_2k,zh,"的",0,0,65445
+bpe_10k,en," the",29794,74,240
+bpe_10k,tr," ve",91,12273,2
+bpe_10k,zh,"的",0,0,41177

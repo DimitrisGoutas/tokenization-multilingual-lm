@@ -1,0 +1,4 @@
+model,total_params,input_embedding_params,output_layer_params
+char,6456547,2417408,2426851
+bpe_2k,2638288,512000,514000
+bpe_10k,6742288,2560000,2570000

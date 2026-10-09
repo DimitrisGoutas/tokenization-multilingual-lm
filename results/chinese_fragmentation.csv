@@ -1,0 +1,3 @@
+tokenizer,one_token,one_token_percentage,multiple_tokens,multiple_tokens_percentage
+bpe_2k,208818,75.68886150277284,67072,24.311138497227155
+bpe_10k,265664,96.29345028815833,10226,3.7065497118416757
